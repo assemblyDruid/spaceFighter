@@ -1,1 +1,1 @@
-# PyGame
+This was my first python program. Its a simple, buggy script that uses pyGame to geometrically render a space-fighter game. It's pretty fun and uses a custom collision detection system I made off-cuff.
